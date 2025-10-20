@@ -1,0 +1,6 @@
+[submodule "EstimEat-backend"]
+	path = EstimEat-backend
+	url = git@github.com:MadeInShineA/EstimEat-backend.git
+[submodule "EstimEat-frontend"]
+	path = EstimEat-frontend
+	url = git@github.com:MadeInShineA/EstimEat-frontend.git
